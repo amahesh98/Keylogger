@@ -3,4 +3,4 @@
 	url = https://github.com/amahesh98/Keylogger.git
 [submodule "server"]
 	path = server
-	url = https://github.com/amahesh98/Keylogger.git
+	url = https://github.com/amahesh98/KeyloggerServer
